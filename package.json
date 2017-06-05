@@ -1,0 +1,30 @@
+{
+  "name": "gulpbuilder",
+  "version": "1.0.1",
+  "description": "Builds a set of gulp tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-carey/gulpbuilder.git"
+  },
+  "keywords": [
+    "taskrunner"
+  ],
+  "author": "Mike Carey <michael.r.carey@att.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike-carey/gulpbuilder/issues"
+  },
+  "homepage": "https://github.com/mike-carey/gulpbuilder#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.4.2",
+    "underscore": "^1.8.3"
+  }
+}
